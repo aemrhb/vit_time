@@ -1,4 +1,5 @@
-Temporal ViT-U-Net Tandem Model
+<h1 align="center"><b>Temporal ViT-U-Net Tandem Model</b></h1>
+
 Enhancing Multi-Sensor Land Cover Classification Using Transformer-Based Temporal Encoding of Satellite Image Time Series
 
 
