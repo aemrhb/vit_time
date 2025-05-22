@@ -1,1 +1,1 @@
-# vit_time
+Temporal ViT-U-Net Tandem Model
